@@ -1,2 +1,4 @@
 db_data
 minio_data
+env
+config.env
